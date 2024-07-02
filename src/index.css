@@ -1,0 +1,12 @@
+.hero-section {
+  padding: 100px 0;
+  background: url('images/hero-background.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+
+footer {
+	position: absolute;
+	bottom: 0
+	height: 100px;
+}
